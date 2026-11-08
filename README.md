@@ -3,9 +3,9 @@
 
 ## Overview
 
-ApplyPilot is an AI-powered career intelligence and job application assistance platform that helps candidates understand employment market requirements, identify skill gaps, improve resumes and discover relevant job opportunities.
+JobZilla is an AI-powered career intelligence and job application assistance platform that helps candidates understand employment market requirements, identify skill gaps, improve resumes and discover relevant job opportunities.
 
-Instead of functioning as just another job portal, ApplyPilot connects candidate capabilities with real-world hiring demand and supports the complete job-seeking lifecycle.
+Instead of functioning as just another job portal, JobZilla connects candidate capabilities with real-world hiring demand and supports the complete job-seeking lifecycle.
 
 ## Project Objectives
 
