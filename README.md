@@ -1,5 +1,4 @@
 # JobZilla
-# ApplyPilot
 ### Understand the Market. Build Your Skills. Find Your Opportunity.
 
 ## Overview
